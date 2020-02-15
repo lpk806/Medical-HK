@@ -24,5 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Web site
-```
 [Click Here](https://medicalhk-47bc0.firebaseapp.com/)
